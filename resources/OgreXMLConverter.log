@@ -1,0 +1,336 @@
+15:10:32: Creating resource group General
+15:10:32: Creating resource group Internal
+15:10:32: Creating resource group Autodetect
+15:10:32: Registering ResourceManager for type Mesh
+15:10:32: Registering ResourceManager for type Material
+15:10:32: Registering ResourceManager for type Skeleton
+15:10:34: XMLSkeletonSerializer: reading XML data from illidan_past.skeleton.xml...
+15:10:35: XMLSkeletonSerializer: Reading Bones name...
+15:10:35: XMLSkeletonSerializer: Reading Hierarchy data...
+15:10:35: XMLSkeletonSerializer: Reading Bones data...
+15:10:35: XMLSkeletonSerializer: Reading Animations data...
+15:10:36: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+15:10:36: Exporting bones..
+15:10:36: Bones exported.
+15:10:36: Exporting animations, count=159
+15:10:36: Exporting animation: Attack1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack1H1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack1HPierce
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack2H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack2H1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack2HL
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack2HL1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Attack2HL2
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackBow
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackFist1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackFist1HOff
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackJoust
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackOff
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackOffPierce
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackRifle
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackThrown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackUnarmed
+15:10:36: Animation exported.
+15:10:36: Exporting animation: AttackUnarmed1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: BattleRoar
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ChannelCastDirected
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ChannelCastOmni
+15:10:36: Animation exported.
+15:10:36: Exporting animation: CombatCritical
+15:10:36: Animation exported.
+15:10:36: Exporting animation: CombatWound
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Cower
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Death
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Dodge
+15:10:36: Animation exported.
+15:10:36: Exporting animation: DragonStomp
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Drown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Drowned
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EatingLoop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteApplaud
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteBeg
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteBow
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteCheer
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteChicken
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteCry
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteDance
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteEat
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteFlex
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteKiss
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteKneel
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteLaugh
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteNo
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmotePoint
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteReadEnd
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteReadLoop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteReadStart
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteRoar
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteRude
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteSalute
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteShout
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteShy
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteStunNoSheathe
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteTalk
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteTalkExclamation
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteTalkQuestion
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteTrain
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteUseStanding
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteUseStandingNoSheathe
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteWave
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteWork
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteWorkNoSheathe
+15:10:36: Animation exported.
+15:10:36: Exporting animation: EmoteYes
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Fall
+15:10:36: Animation exported.
+15:10:36: Exporting animation: FishingCast
+15:10:36: Animation exported.
+15:10:36: Exporting animation: FishingLoop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: HandsClosed
+15:10:36: Animation exported.
+15:10:36: Exporting animation: HipSheath
+15:10:36: Animation exported.
+15:10:36: Exporting animation: HoldBow
+15:10:36: Animation exported.
+15:10:36: Exporting animation: HoldJoust
+15:10:36: Animation exported.
+15:10:36: Exporting animation: HoldRifle
+15:10:36: Animation exported.
+15:10:36: Exporting animation: HoldThrown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Hover
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Jump
+15:10:36: Animation exported.
+15:10:36: Exporting animation: JumpEnd
+15:10:36: Animation exported.
+15:10:36: Exporting animation: JumpLandRun
+15:10:36: Animation exported.
+15:10:36: Exporting animation: JumpStart
+15:10:36: Animation exported.
+15:10:36: Exporting animation: JumpStart1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Kick
+15:10:36: Animation exported.
+15:10:36: Exporting animation: KneelEnd
+15:10:36: Animation exported.
+15:10:36: Exporting animation: KneelLoop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: KneelStart
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Knockdown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: LoadBow
+15:10:36: Animation exported.
+15:10:36: Exporting animation: LoadJoust
+15:10:36: Animation exported.
+15:10:36: Exporting animation: LoadRifle
+15:10:36: Animation exported.
+15:10:36: Exporting animation: LoadThrown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Loot
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Mount
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Mount1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Mutilate
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Parry1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Parry2H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Parry2HL
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ParryFist1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ParryUnarmed
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Ready1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Ready2H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Ready2HL
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadyBow
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadyFist1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadyJoust
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadyRifle
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadySpellDirected
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadySpellOmni
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadyThrown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReadyUnarmed
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReclinedMount
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ReclinedMountPassenger
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Run
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Sheath
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ShieldBash
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ShieldBlock
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ShuffleLeft
+15:10:36: Animation exported.
+15:10:36: Exporting animation: ShuffleRight
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SitChairHigh
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SitChairLow
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SitChairMed
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SitGround
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SitGroundDown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SitGroundUp
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Sleep
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SleepDown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SleepUp
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Special1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Special2H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpecialFist1H
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpecialUnarmed
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpellCastDirected
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpellCastOmni
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpellKneelEnd
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpellKneelLoop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpellKneelStart
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SpellSleepDown
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Sprint
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Stand
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Stand1
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Stand2
+15:10:36: Animation exported.
+15:10:36: Exporting animation: StandWound
+15:10:36: Animation exported.
+15:10:36: Exporting animation: StealthRun
+15:10:36: Animation exported.
+15:10:36: Exporting animation: StealthStand
+15:10:36: Animation exported.
+15:10:36: Exporting animation: StealthWalk
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Stop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Stormstrike
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Strangulate
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Stun
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Swim
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SwimBackwards
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SwimIdle
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SwimLeft
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SwimRight
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SwimRun
+15:10:36: Animation exported.
+15:10:36: Exporting animation: SwimWalk
+15:10:36: Animation exported.
+15:10:36: Exporting animation: UseStandingEnd
+15:10:36: Animation exported.
+15:10:36: Exporting animation: UseStandingLoop
+15:10:36: Animation exported.
+15:10:36: Exporting animation: UseStandingStart
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Walk
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Walkbackwards
+15:10:36: Animation exported.
+15:10:36: Exporting animation: Whirlwind
+15:10:36: Animation exported.
+15:10:36: Unregistering ResourceManager for type Skeleton
+15:10:36: Unregistering ResourceManager for type Material
+15:10:36: Unregistering ResourceManager for type Mesh

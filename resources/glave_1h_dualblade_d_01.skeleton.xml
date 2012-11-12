@@ -1,0 +1,90 @@
+<skeleton>
+	<bones>
+		<bone id="0" name="0">
+			<position x="0.000202" y="0.008444" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="1" name="1">
+			<position x="0.516021" y="0.001449" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="2" name="2">
+			<position x="-0.475537" y="0.006409" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="3" name="3">
+			<position x="-0.834923" y="0.081745" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="4" name="4">
+			<position x="0.001336" y="0.016770" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="5" name="5">
+			<position x="0.831441" y="0.084565" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="6" name="6">
+			<position x="-1.154368" y="0.443598" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="7" name="7">
+			<position x="1.152075" y="0.447145" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+	</bones>
+	<bonehierarchy>
+	</bonehierarchy>
+	<animations>
+		<animation name="Stand" length="0.333000">
+			<tracks>
+				<track bone="1">
+					<keyframes>
+						<keyframe time="3.000000">
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="2">
+					<keyframes>
+						<keyframe time="3.000000">
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="3">
+					<keyframes>
+						<keyframe time="3.000000">
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="4">
+					<keyframes>
+						<keyframe time="3.000000">
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="5">
+					<keyframes>
+						<keyframe time="3.000000">
+						</keyframe>
+					</keyframes>
+				</track>
+			</tracks>
+		</animation>
+	</animations>
+</skeleton>

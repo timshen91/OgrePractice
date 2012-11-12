@@ -1,0 +1,28 @@
+material glave_1h_dualblade_d_02_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture GLAVE_1H_DUALBLADE_D_02.tga -1
+			}
+		}
+	}
+}
+material glave_1h_dualblade_d_02_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture GLAVE_1H_DUALBLADE_D_02.tga -1
+			}
+		}
+	}
+}

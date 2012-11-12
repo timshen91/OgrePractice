@@ -1,0 +1,182 @@
+material arthaslichking_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BEAM_SMOKEGREY.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture T_VFX_FIRE_ANIM02_128_FULL_DESAT_BLUE.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture T_VFX_FIRE_ANIM02_128_FULL_DESAT_BLUE.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_01.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_02.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARMORREFLECT3.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_01.tga -1
+			}
+		}
+	}
+}
+material arthaslichking_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_02.tga -1
+			}
+		}
+	}
+}

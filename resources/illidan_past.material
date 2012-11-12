@@ -1,0 +1,14 @@
+material illidan_past_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ILLIDAN_PAST.tga -1
+			}
+		}
+	}
+}
