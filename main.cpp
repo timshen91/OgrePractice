@@ -117,8 +117,8 @@ public:
 		auto temp = mHeroNode->createChildSceneNode();
 		//mHero = mSceneMgr->createEntity("hero", "arthaslichking.mesh");
 		mHero = mSceneMgr->createEntity("hero", "illidan_past.mesh");
-		mHero->attachObjectToBone("55", mSceneMgr->createEntity("h55", "glave_1h_dualblade_d_01.mesh"));
-		mHero->attachObjectToBone("56", mSceneMgr->createEntity("h56", "glave_1h_dualblade_d_01left.mesh"));
+		mHero->attachObjectToBone("55", mSceneMgr->createEntity("rightHand", "glave_1h_dualblade_d_01.mesh"));
+		mHero->attachObjectToBone("56", mSceneMgr->createEntity("leftHand", "glave_1h_dualblade_d_01left.mesh"));
 		mHero->setCastShadows(true);
 		temp->attachObject(mHero);
 		temp->yaw(Ogre::Degree{90});
@@ -131,6 +131,31 @@ public:
 		auto vp = mWindow->addViewport(mCamera);
 		vp->setBackgroundColour(Ogre::ColourValue(1, 1, 1));
 		mCamera->setAspectRatio(Ogre::Real(vp->getActualWidth()) / Ogre::Real(vp->getActualHeight()));
+
+		//int m = 15;
+		//auto skel = mHero->getSkeleton();
+		//int numAnimations = skel->getNumAnimations();
+		//auto iter = mHero->getSkeleton()->getBoneIterator().begin();
+		//for (int i = 1; i < m; i++) {
+		//	auto bone = *iter;
+		//	bone->setManuallyControlled(true);
+		//	for(int j=0;j<numAnimations;j++){
+		//		Ogre::Animation * anim = skel->getAnimation(j);
+		//		anim->destroyNodeTrack(bone->getHandle());
+		//	}
+		//	bone->yaw(Ogre::Degree{90});
+		//	++iter;
+		//}
+		//for (int i = m; i < 57; i++) {
+		//	auto bone = *iter;
+		//	//bone->setManuallyControlled(true);
+		//	//for(int j=0;j<numAnimations;j++){
+		//	//	Ogre::Animation * anim = skel->getAnimation(j);
+		//	//	anim->destroyNodeTrack(bone->getHandle());
+		//	//}
+		//	//bone->yaw(Ogre::Degree{90});
+		//	++iter;
+		//}
 	}
 
 	virtual bool frameRenderingQueued(const Ogre::FrameEvent & evt) {
@@ -256,9 +281,9 @@ public:
 
 	void createScene() {
 		// shadow
-		mSceneMgr->setAmbientLight(Ogre::ColourValue(0.5, 0.5, 0.5));
+		mSceneMgr->setAmbientLight(Ogre::ColourValue{0.5, 0.5, 0.5});
 		mSceneMgr->setShadowTechnique(Ogre::SHADOWTYPE_STENCIL_ADDITIVE);
-		mSceneMgr->setShadowColour(Ogre::ColourValue(0.5, 0.5, 0.5));
+		mSceneMgr->setShadowColour(Ogre::ColourValue{0.5, 0.5, 0.5});
 		mSceneMgr->setShadowTextureSize(1024);
 		mSceneMgr->setShadowTextureCount(1);
 		mSceneMgr->setShadowFarDistance(200);
